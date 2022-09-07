@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\Api\\GreetingsTest::testCreateGreeting":3,"App\\Tests\\Api\\EmployeeTest::testCreateEmployee":3},"times":{"App\\Tests\\Api\\GreetingsTest::testCreateGreeting":0.636,"App\\Tests\\Api\\EmployeeTest::testCreateEmployee":0.141}}
